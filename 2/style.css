@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    line-height: 1.6em;
+}
+
+.odd {
+    background-color: rgba(255, 192, 203, 0.753);
+}
+
+#nr2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.nr3 {
+    font-size: 24px;
+}
+
+#nr4 {
+    background-color: rgba(144, 238, 144, 0.609);
+    font-size: 24px;
+    font-weight: bold;
+}
